@@ -1,0 +1,10 @@
+# Actual Requirements
+numpy
+scipy
+pandas
+joblib
+matplotlib
+colorcet
+holoviews 
+bokeh
+
