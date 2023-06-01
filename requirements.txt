@@ -1,5 +1,5 @@
 # Actual Requirements
-Python
+python
 numpy
 scipy
 pandas
