@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\Properties\PublishProfiles\registry.hub.docker.com_jflem931.pubxml</_LastSelectedProfileId>
+    <NameOfLastUsedPublishProfile>registry.hub.docker.com_jflem93</NameOfLastUsedPublishProfile>
+    <ActiveDebugProfile>Docker</ActiveDebugProfile>
+  </PropertyGroup>
+</Project>

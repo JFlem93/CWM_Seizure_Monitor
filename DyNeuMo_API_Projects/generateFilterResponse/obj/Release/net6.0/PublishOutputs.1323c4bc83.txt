@@ -1,0 +1,17 @@
+C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\bin\Release\net6.0\publish\generateFilterResponse.exe
+C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\bin\Release\net6.0\publish\generateFilterResponse.dll
+C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\bin\Release\net6.0\publish\generateFilterResponse.deps.json
+C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\bin\Release\net6.0\publish\generateFilterResponse.runtimeconfig.json
+C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\bin\Release\net6.0\publish\generateFilterResponse.pdb
+C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\bin\Release\net6.0\publish\MathNet.Numerics.dll
+C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\bin\Release\net6.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\bin\Release\net6.0\publish\PicostimApi.dll
+C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\bin\Release\net6.0\publish\System.IO.Ports.dll
+C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\bin\Release\net6.0\publish\YamlDotNet.dll
+C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\bin\Release\net6.0\publish\runtimes\linux-arm\native\System.IO.Ports.Native.so
+C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\bin\Release\net6.0\publish\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\bin\Release\net6.0\publish\runtimes\linux-x64\native\System.IO.Ports.Native.so
+C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\bin\Release\net6.0\publish\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\bin\Release\net6.0\publish\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\bin\Release\net6.0\publish\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\ndcm1133\OneDrive - Nexus365\Desktop\DyNeuMo_Software\DyNeuMo_Pipeline\DyNeuMo_2_Pipeline\Filter_Test_Example\generateFilterResponse\bin\Release\net6.0\publish\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll

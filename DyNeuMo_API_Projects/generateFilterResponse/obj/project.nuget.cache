@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "0k6ypSKzSWJha3dtMxTMtvAV3bypXynroK93ynWRptcJ8/JTwdQhVf8yrX28iAel5jkBWilcai0x5sjUp03eFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ndcm1133\\OneDrive - Nexus365\\Desktop\\DyNeuMo_Software\\DyNeuMo_Pipeline\\DyNeuMo_2_Pipeline\\Filter_Test_Example\\generateFilterResponse\\generateFilterResponse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ndcm1133\\.nuget\\packages\\mathnet.numerics\\4.8.1\\mathnet.numerics.4.8.1.nupkg.sha512",
+    "C:\\Users\\ndcm1133\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\ndcm1133\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\ndcm1133\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
+    "C:\\Users\\ndcm1133\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\ndcm1133\\.nuget\\packages\\picostimapi\\1.2.22020.2\\picostimapi.1.2.22020.2.nupkg.sha512",
+    "C:\\Users\\ndcm1133\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\4.7.0\\runtime.linux-arm.runtime.native.system.io.ports.4.7.0.nupkg.sha512",
+    "C:\\Users\\ndcm1133\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\4.7.0\\runtime.linux-arm64.runtime.native.system.io.ports.4.7.0.nupkg.sha512",
+    "C:\\Users\\ndcm1133\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\4.7.0\\runtime.linux-x64.runtime.native.system.io.ports.4.7.0.nupkg.sha512",
+    "C:\\Users\\ndcm1133\\.nuget\\packages\\runtime.native.system.io.ports\\4.7.0\\runtime.native.system.io.ports.4.7.0.nupkg.sha512",
+    "C:\\Users\\ndcm1133\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\4.7.0\\runtime.osx-x64.runtime.native.system.io.ports.4.7.0.nupkg.sha512",
+    "C:\\Users\\ndcm1133\\.nuget\\packages\\system.io.ports\\4.7.0\\system.io.ports.4.7.0.nupkg.sha512",
+    "C:\\Users\\ndcm1133\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\ndcm1133\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\ndcm1133\\.nuget\\packages\\yamldotnet\\11.1.1\\yamldotnet.11.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
