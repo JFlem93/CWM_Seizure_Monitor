@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "filterSignal": {
-      "commandName": "Project",
-      "commandLineArgs": "\"0\" \"10\" \"C:\\\\Users\\\\ndcm1133\\\\OneDrive - Nexus365\\\\Desktop\\\\raw_test_signal.csv\" \"C:\\\\Users\\\\ndcm1133\\\\OneDrive - Nexus365\\\\Desktop\\\\filtered_test_signal.csv\""
-    }
-  }
-}
